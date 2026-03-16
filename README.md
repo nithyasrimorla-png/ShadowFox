@@ -25,7 +25,7 @@ I am **Nithya Sri**, a Full Stack Web Developer passionate about building **resp
 - **Other Tools:** Git, GitHub, Netlify, APIs  
 
 ## 🔗 Live Portfolio
-Visit my live portfolio: [https://nithyasriportfolio.netlify.app](https://nithyasriportfolio.netlify.app)
+Visit my live portfolio:https://nithyasriportfolio.lovable.app/
 
 ## 📫 Contact Me
 - Email: your-email@example.com  
